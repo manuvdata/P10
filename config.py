@@ -20,7 +20,7 @@ class DefaultConfig:
     LUIS_API_KEY = '033c3af6d53b49c7afa2cbe5637d578c'
     LUIS_API_HOST_NAME = 'p10evinstance.cognitiveservices.azure.com/'
     LUIS_APP_ID = '077e5fce-c99c-4e89-909f-dd6bd6807e85'
-    APPINSIGHTS_INSTRUMENTATION_KEY = '32311f47-6b7f-436b-beef-96e2d72c5f07'
+    APPINSIGHTS_INSTRUMENTATION_KEY = '22c46249-847a-4a76-8cd3-8726ffa1e73f'
     
 
 
